@@ -1,5 +1,9 @@
 Hello Hiii
 
 Can we tomarrro ? 
+<<<<<<< HEAD
 
 No
+=======
+Yes....
+>>>>>>> master
